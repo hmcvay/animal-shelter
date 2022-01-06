@@ -1,9 +1,24 @@
-.image {
-  width: 10%;
+
+.column1 {
+  width: 300px;
   height: auto;
+  float: left;
+  margin: 100px;
+}
+.column2 {
+  width: 300px;
+  height: auto;
+  float: left;
+  margin: 100px;
 }
 
-.column {
+.column3 {
   width: 300px;
+  height: auto;
   float: left;
+  margin: 100px;
+}
+img {
+  width: 200px;
+  height: 200px;
 }
